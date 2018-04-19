@@ -1,0 +1,6 @@
+﻿  MFCApplication4Dlg.cpp
+c:\users\cyj52\desktop\mfcapplication4_2\mfcapplication4_2\mfcapplication4\dataprocess.h(18): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cyj52\desktop\mfcapplication4_2\mfcapplication4_2\mfcapplication4\dataprocess.h(25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cyj52\desktop\mfcapplication4_2\mfcapplication4_2\mfcapplication4\dataprocess.h(50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cyj52\desktop\mfcapplication4_2\mfcapplication4_2\mfcapplication4\dataprocess.h(64): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  MFCApplication4.vcxproj -> C:\Users\cyj52\Desktop\MFCApplication4_2\MFCApplication4_2\x64\Debug\MFCApplication4.exe

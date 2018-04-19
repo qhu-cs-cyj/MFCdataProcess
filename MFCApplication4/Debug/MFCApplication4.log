@@ -1,0 +1,161 @@
+﻿  ssqinc.cpp
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\ssqinc.cpp(10): warning C4068: 未知的杂注
+  unit1.cpp
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(9): warning C4068: 未知的杂注
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(10): warning C4068: 未知的杂注
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(11): warning C4068: 未知的杂注
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(12): warning C4068: 未知的杂注
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(17): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(17): error C2923: “std::map”: 对于参数“_Ty”，“TLotter3Stru_”不是有效的 模板 类型变量
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\map(78): error C3203: “pair”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Ty”，应为 real 类型
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(19): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(19): error C2238: 意外的标记位于“;”之前
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(20): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(20): error C2238: 意外的标记位于“;”之前
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(23): error C2512: “std::map”: 没有合适的默认构造函数可用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\map(80): note: 参见“std::map”的声明
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(27): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(27): error C2228: “.size”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(27): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(27): error C2065: “LS_RECCHK_MAX_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(31): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(31): error C2228: “.size”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(31): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(31): error C2789: “isize_”: 必须初始化常量限定类型的对象
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(31): note: 参见“isize_”的声明
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(33): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(42): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(42): error C2065: “ls_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(42): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(47): error C2065: “vLsFlagStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(47): error C2228: “.flaga2”的左边必须有类/结构/联合
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(47): error C2065: “ls_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(47): error C2228: “.a”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(47): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(51): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(90): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(90): error C2228: “.size”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(90): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(90): error C2065: “LS_RECCHK_MAX_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(94): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(94): error C2228: “.size”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(94): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(94): error C2789: “isize_”: 必须初始化常量限定类型的对象
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(94): note: 参见“isize_”的声明
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(96): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(105): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(105): error C2065: “ls_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(105): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(110): error C2065: “vLsFlagStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(110): error C2228: “.flaga”的左边必须有类/结构/联合
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(110): error C2065: “ls_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(110): error C2228: “.a”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(110): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(114): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(155): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(155): error C2228: “.clear”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(155): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(156): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(156): error C2228: “.reserve”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(156): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(156): error C2662: “_Tree_comp_alloc<_Traits>::_Val_types::size_type std::_Tree<_Traits>::size(void) noexcept const”: 不能将“this”指针从“std::map”转换为“const std::_Tree<_Traits> &”
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(156): note: 原因如下: 无法从“std::map”转换为“const std::_Tree<_Traits>”
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(156): note: 转换要求第二个用户定义的转换运算符或构造函数
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(157): error C2065: “vLsFlagStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(157): error C2228: “.clear”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(157): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(158): error C2065: “vLsFlagStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(158): error C2228: “.resize”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(158): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(158): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(159): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(159): error C2923: “std::map”: 对于参数“_Ty”，“TLotter3Stru_”不是有效的 模板 类型变量
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(159): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\map(80): note: 参见“std::map”的声明
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(159): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(159): error C2663: “std::_Tree<_Traits>::begin”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(159): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(161): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(161): error C2065: “ls”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(161): error C2227: “->second”的左边必须指向类/结构/联合/泛型类型
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(161): note: 类型是“conditional<_Test,_Ty1,_Ty2>::type”
+          with
+          [
+              _Ty1=std::_Tree_const_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>,
+              _Ty2=std::_Tree_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>
+          ]
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(162): error C2065: “vGenDataLsStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(162): error C2228: “.push_back”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(162): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(162): error C2065: “ls”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(183): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(185): error C2065: “TLsFlagStru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(185): error C2065: “lsflag_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(185): error C2065: “vLsFlagStru”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(191): error C2065: “lsflag_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(191): error C2228: “.flaga”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(191): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(193): error C2065: “lsflag_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(193): error C2228: “.flaga2”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(193): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(200): error C2663: “std::_Tree<_Traits>::rbegin”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(200): error C2227: “->first”的左边必须指向类/结构/联合/泛型类型
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(200): error C2789: “max1”: 必须初始化常量限定类型的对象
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(200): note: 参见“max1”的声明
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(208): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(210): error C2065: “LS_CHK_SIZE”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(278): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(278): error C2923: “std::map”: 对于参数“_Ty”，“TLotter3Stru_”不是有效的 模板 类型变量
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(278): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\map(80): note: 参见“std::map”的声明
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(278): error C2663: “std::_Tree<_Traits>::begin”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(278): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(280): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(280): error C2065: “ls”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(280): error C2227: “->second”的左边必须指向类/结构/联合/泛型类型
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(280): note: 类型是“conditional<_Test,_Ty1,_Ty2>::type”
+          with
+          [
+              _Ty1=std::_Tree_const_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>,
+              _Ty2=std::_Tree_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>
+          ]
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(304): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(304): error C2146: 语法错误: 缺少“;”(在标识符“ls”的前面)
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(304): error C2065: “ls”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(308): error C2065: “ls”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(308): error C3861: “ParseLotter3Txt”: 找不到标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(310): error C2065: “ls”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(310): error C2228: “.seqno”的左边必须有类/结构/联合
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(310): note: 类型是“unknown-type”
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(314): error C2663: “std::_Tree<_Traits>::begin”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(314): error C2227: “->first”的左边必须指向类/结构/联合/泛型类型
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(315): error C2663: “std::_Tree<_Traits>::rbegin”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(315): error C2227: “->first”的左边必须指向类/结构/联合/泛型类型
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(317): error C2662: “_Tree_comp_alloc<_Traits>::_Val_types::size_type std::_Tree<_Traits>::size(void) noexcept const”: 不能将“this”指针从“std::map”转换为“const std::_Tree<_Traits> &”
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(317): note: 原因如下: 无法从“std::map”转换为“const std::_Tree<_Traits>”
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(317): note: 转换要求第二个用户定义的转换运算符或构造函数
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(321): error C2065: “TLotter3Stru_”: 未声明的标识符
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(321): error C2923: “std::map”: 对于参数“_Ty”，“TLotter3Stru_”不是有效的 模板 类型变量
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(321): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\map(80): note: 参见“std::map”的声明
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(321): error C2663: “std::_Tree<_Traits>::begin”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(321): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(323): error C2227: “->first”的左边必须指向类/结构/联合/泛型类型
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(323): note: 类型是“conditional<_Test,_Ty1,_Ty2>::type”
+          with
+          [
+              _Ty1=std::_Tree_const_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>,
+              _Ty2=std::_Tree_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>
+          ]
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(326): error C2227: “->first”的左边必须指向类/结构/联合/泛型类型
+  c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(326): note: 类型是“conditional<_Test,_Ty1,_Ty2>::type”
+          with
+          [
+              _Ty1=std::_Tree_const_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>,
+              _Ty2=std::_Tree_iterator<std::_Tree_val<_Tree_base_types<_Traits::value_type,_Traits::allocator_type>::_Val_types>>
+          ]
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(328): error C2227: “->first”的左边必须指向类/结构/联合/泛型类型
+c:\users\16084\desktop\mfcapplication4_2\mfcapplication4\unit1.cpp(328): fatal error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...
